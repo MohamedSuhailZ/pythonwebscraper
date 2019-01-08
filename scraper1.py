@@ -1,7 +1,6 @@
 ##
 import urllib.request
 from bs4 import BeautifulSoup
-import pandas as pd
 
 url = "https://www.flipkart.com/computers/printers-inks/printers/epson~brand/pr?sid=6bo,ffn,t64&otracker=clp_metro_expandable_3_4.metroExpandable.METRO_EXPANDABLE_Epson_printer-inks-store_Q15SM7PLHL&fm=neo%2Fmerchandising&iid=M_66120718-6d6a-4e22-8cda-bb35d84493a4_3.Q15SM7PLHL&ppt=Homepage&ppn=Homepage"
 page = urllib.request.urlopen(url)
