@@ -9,3 +9,5 @@ The main goal of this repo is to fetch product names and prices of Epson printer
 and write them to different .csv files for further analysis.
 
 The code will be updated to fetch all Epson products instead of only printers.
+
+Just clone this repo and run scraper.py to generate products.csv file in the same directory.
